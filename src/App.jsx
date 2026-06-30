@@ -25,7 +25,6 @@ const App = () => {
             <p className='message-text'>Hey there 👋 <br /> How can I help you today?</p>
           </div>
           <div className="message user-message">
-            <ChatbotIcon />
             <p className='message-text'>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
           </div>
 
